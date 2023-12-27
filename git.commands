@@ -1,0 +1,3 @@
+git config --global user.name "Itamar Lachman"
+git config --global user.email "itamarlachman@talenya.com"
+git clone https://itamarlachman@github.com/itamarlachman/repository.git
